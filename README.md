@@ -12,7 +12,7 @@ Build ImmortalWrt for R1S-H5 using GitHub Actions
 
 ## Tips
 
-- Default login address: [192.168.1.1](192.168.1.1), username is **root** and password is **password**.
+- Default login address: [192.168.3.1](192.168.3.1), username is **root** and password is **password**.
 - This version of ImmortalWrt is very simple.It only has ssrp, adbyby, aliddns, cpufreq, zerotie, turboacc and unblockmusic.
 - If you want more applications, fork my repo and make your own version.
 
