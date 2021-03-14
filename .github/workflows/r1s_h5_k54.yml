@@ -1,11 +1,11 @@
 #
-# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
+# Copyright (c) 2021 F-T-Otaku
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
-# https://github.com/P3TERX/Actions-OpenWrt
-# Description: Build OpenWrt using GitHub Actions
+# https://github.com/P3TERX/Actions-ImmortalWrt-R1S_H5
+# Description: Build ImmortalWrt for R1S-H5 using GitHub Actions
 #
 
 name: Build ImmortalWrt R1S_H5-K5.4
