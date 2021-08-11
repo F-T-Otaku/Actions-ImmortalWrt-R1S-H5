@@ -8,7 +8,7 @@
 # Description: Build ImmortalWrt for R1S-H5 using GitHub Actions
 #
 
-name: Build OpenWrt R1S_H5-k5.4
+name: Build OpenWrt R1S_H5-k5.4k
 
 on:
   repository_dispatch:
