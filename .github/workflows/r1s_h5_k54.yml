@@ -8,7 +8,7 @@
 # Description: Build ImmortalWrt for R1S-H5 using GitHub Actions
 #
 
-name: Build OpenWrt R1S_H5-k5.4
+name: Build OpenWrt R1S_H5-kk5.4
 
 on:
   repository_dispatch:
@@ -28,7 +28,7 @@ env:
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
-  UPLOAD_COWTRANSFER: false
+  UPLOAD_COWTRANSFER: true
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
