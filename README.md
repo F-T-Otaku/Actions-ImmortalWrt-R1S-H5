@@ -1,14 +1,14 @@
 # Actions-ImmortalWrt-R1S-H5
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S_H5/blob/main/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/F-T-Otaku/Actions-ImmortalWrt-R1S_H5.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/F-T-Otaku/Actions-ImmortalWrt-R1S_H5.svg?style=flat-square&label=Forks&logo=github)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S-H5/blob/main/LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/F-T-Otaku/Actions-ImmortalWrt-R1S-H5.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/F-T-Otaku/Actions-ImmortalWrt-R1S-H5.svg?style=flat-square&label=Forks&logo=github)
 
 Build ImmortalWrt for R1S-H5 using GitHub Actions
 
 ## Usage
 
-- Click the [Use this template](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S_H5/generate) button to create a new repository.
+- Click the [Use this template](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S-H5/generate) button to create a new repository.
 - Generate `.config` files using [ImmortalWrt](https://github.com/immortalwrt/immortalwrt/tree/openwrt-18.06-k5.4) source code. ( You can change it through environment variables in the workflow file. )
 - Add your own `seed.config` to `SEED` folder.
 - Select `Build OpenWrt` on the Actions page.
@@ -34,4 +34,4 @@ Build ImmortalWrt for R1S-H5 using GitHub Actions
 
 ## License
 
-[MIT](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S_H5/blob/main/LICENSE) © F-T-Otaku
+[MIT](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S-H5/blob/main/LICENSE) © F-T-Otaku
