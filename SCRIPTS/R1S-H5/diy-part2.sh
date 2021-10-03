@@ -5,7 +5,7 @@
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
-# https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S_H5
+# https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S-H5
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
