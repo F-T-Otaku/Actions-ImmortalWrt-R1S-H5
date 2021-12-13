@@ -17,7 +17,8 @@ Build ImmortalWrt for R1S-H5 using GitHub Actions
 
 ## Tips
 
-- Default login address: [192.168.233.1](192.168.233.1), username is **root** and password is **password**.
+- Default login address: [192.168.233.1](http://192.168.233.1), username is **root** and password is **password**.
+- You can also use [immortalwrt.lan](http://immortalwrt.lan) to login.
 - My version of ImmortalWrt is very simple.It only has ssrp, cpufreq, turboacc and unblockmusic.
 - Stable's kernel version is 4.19 and normal's kernel version is 5.4.
 - If you don't know how to generate `seed.config`, please look this page: <https://github.com/coolsnowwolf/lede/issues/2288>.
